@@ -31,7 +31,7 @@
 - **CSP**: Content Security Policy
 - **CORS**: Cross-Origin Resource Sharing
 - **XSS**: Cross-Site Scripting
-- **SOP**: Same-Origin Policy*
+- **SOP**: Same-Origin Policy
 - **SQLi**: SQL Injection
 - **JWT**: JSON Web Token
 - **MAC**: Message Authentication Code
