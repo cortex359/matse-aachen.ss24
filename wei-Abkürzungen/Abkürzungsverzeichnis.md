@@ -1,0 +1,73 @@
+### Allgemeine Abkürzungen:
+
+- **API**: Application Programming Interface
+- **GUI**: Graphical User Interface
+- **HTML**: HyperText Markup Language
+- **XML**: eXtensible Markup Language
+- **CSS**: Cascading Style Sheets
+- **DOM**: Document Object Model
+- **CDN**: Content Delivery Network
+- **HTTP**: HyperText Transfer Protocol
+- **HTTPS**: HyperText Transfer Protocol Secure
+- **MIME**: Multipurpose Internet Mail Extensions
+- **MVC**: Model View Controller
+- **ORM**: Object-Relational Mapping
+- **URI**: Uniform Resource Identifier
+- **URL**: Uniform Resource Locator
+- **URN**: Uniform Resource Name
+- **AJAX**: Asynchronous JavaScript and XML
+- **REST**: Representational State Transfer
+- **CRUD**: Create (POST), Read (GET), Update (PUT), Delete
+- **CGI**: Common Gateway Interface
+- **FastCGI**: Fast Common Gateway Interface
+- **ROA**: Resource-oriented Architecture
+### Sicherheits- und Verschlüsselungsbezogene Abkürzungen:
+
+- **CA**: Certificate Authority
+- **RA**: Registration Authority
+- **CSR**: Certificate Signing Request
+- **CSRF**: Cross-Site Request Forgery
+- **SSRF**: Server-Side Request Forgery
+- **CSP**: Content Security Policy
+- **CORS**: Cross-Origin Resource Sharing
+- **XSS**: Cross-Site Scripting
+- **SOP**: Same-Origin Policy*
+- **SQLi**: SQL Injection
+- **JWT**: JSON Web Token
+- **MAC**: Message Authentication Code
+- **OWASP**: Open Web Application Security Project
+- **PKI**: Public Key Infrastructure
+- **SSL**: Secure Socket Layer
+- **TLS**: Transport Layer Security
+- **IDS**: Intrusion Detection System
+- **IPS**: Intrusion Prevention System
+- **DoS**: Denial of Service
+- **HPKP**: HTTP Public Key Pinning
+- **HSTS**: HTTP Strict Transport Security
+- **SNI**: Server Name Indication
+- **POODLE** Attack: Padding Oracle On Downgraded Legacy Encryption
+- **MAC**: Message Authentication Code
+- **CBC** Mode: Cipher Block Chaining Mode
+- **CT**: Certificate Transparency
+- **MITM**: Man-in-the-Middle
+
+### Technologien und Frameworks:
+
+- **JS**: JavaScript
+- **ES6**: ECMAScript 6 (auch bekannt als ECMAScript 2015)
+- **JSON**: JavaScript Object Notation
+- **npm**: Node Package Manager
+- **PHP**: Hypertext Preprocessor (ursprünglich Personal Home Page)
+- **PDO**: PHP Data Objects
+- **SQL**: Structured Query Language
+- **JDK**: Java Development Kit
+- **JRE**: Java Runtime Environment
+- **JSP**: JavaServer Pages
+- **EJB**: Enterprise JavaBeans
+- **AWT**: Abstract Window Toolkit
+- **XAMPP**: Cross-Platform (X), Apache (A), MariaDB (M), PHP (P), and Perl (P) distribution
+- **LAMP**: Linux, Apache, MySQL, PHP
+- **WAMP**: Windows, Apache, MySQL, PHP
+- **MPM**: Multi-Processing Module
+- **OIDC**: OpenID Connect
+- **SSH**: Secure Shell
