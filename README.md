@@ -25,3 +25,8 @@ Aachen, im [IT Center](https://www.itc.rwth-aachen.de/cms/IT-Center/Lehre-Ausbil
 
 - [Abkürzungsverzeichnis](./wei-Abkürzungen/Abkürzungsverzeichnis.md)
 - [Karteikarten](./wei-Karteikarten/README.md)
+
+## Kommunikationssysteme
+
+- Erste Version der Selbstlernfragen, ungeordnet und ungeprüft:
+  [Selbstlernfragen](./kom-Karteikarten/Selbstlernfragen.v0.2.md)
