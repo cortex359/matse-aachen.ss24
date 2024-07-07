@@ -1,8 +1,5 @@
 # :blue_book: AMI B.Sc. Hausaufgaben :student:
 
-[![LaTeX compilation](https://github.com/cortex359/matse-aachen.ss23/actions/workflows/latexmk-vorlage.yml/badge.svg?branch=master)](https://github.com/cortex359/matse-aachen.ss23/actions/workflows/latexmk-vorlage.yml)
-
-
 **Studiengang**
 
 Angewandte Mathematik und Informatik B.Sc. ([AMI](https://www.fh-aachen.de/studium/angewandte-mathematik-und-informatik-bsc)) an der [FH Aachen](https://www.fh-aachen.de/), University of Applied Sciences.
@@ -24,9 +21,7 @@ Aachen, im [IT Center](https://www.itc.rwth-aachen.de/cms/IT-Center/Lehre-Ausbil
 | SoSe 2024 | kom    | Kommunikationssysteme           | Prof. Dr. rer. nat. Volker |
 | SoSe 2024 | wei    | Web-Engineering und Internettechnologien               | Prof. Dr. rer. nat. Volker |
 
-## Abgaberichtlinien
+## Web-Engineering und Internettechnologien
 
-Die hochgeladenen Dateien müssen dieser Namenskonvention genügen:
-
-    sto_thelen_christianrene_h0x.pdf
-    swt_10_h0x.pdf
+- [Abkürzungsverzeichnis](./wei-Abkürzungen/Abkürzungsverzeichnis.md)
+- [Karteikarten](./wei-Karteikarten/README.md)
