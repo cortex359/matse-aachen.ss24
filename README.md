@@ -17,7 +17,7 @@ Aachen, im [IT Center](https://www.itc.rwth-aachen.de/cms/IT-Center/Lehre-Ausbil
 
 | Semester  | Kürzel | Modul                     | Dozent                           |
 | --------- | ------ | ------------------------- | -------------------------------- |
-| SoSe 2024 | num    | Numerik                   | Prof. Dr. rer. nat. Martin Reißel    |
+| SoSe 2024 | num    | [Numerik](https://github.com/cortex359/num.ss24)                   | Prof. Dr. rer. nat. Martin Reißel    |
 | SoSe 2024 | kom    | Kommunikationssysteme           | Prof. Dr. rer. nat. Volker |
 | SoSe 2024 | wei    | Web-Engineering und Internettechnologien               | Prof. Dr. rer. nat. Volker |
 
