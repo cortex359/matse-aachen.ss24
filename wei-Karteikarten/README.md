@@ -277,3 +277,8 @@
 - [94.1 Was ist die Idee von Cross-Origin Resource Sharing (CORS)?](./94.1%20Was%20ist%20die%20Idee%20von%20Cross-Origin%20Resource%20Sharing%20%28CORS%29%3F.md)
 - [94.2 Wie funktioniert CORS in der Praxis?](./94.2%20Wie%20funktioniert%20CORS%20in%20der%20Praxis%3F.md)
 - [94.3 Welche Arten von CORS-Anfragen gibt es und wie unterscheiden sie sich?](./94.3%20Welche%20Arten%20von%20CORS-Anfragen%20gibt%20es%20und%20wie%20unterscheiden%20sie%20sich%3F.md)
+
+Zusatzfragen
+- [Z1.1 Was ist der Authorization-Header?](Z1.1%20Was%20ist%20der%20Authorization-Header?.md)
+- [Z1.2 Wie werden die Inhalte des Formulars bei der Methode GET an den Server übertragen?](Z1.2%20Wie%20werden%20die%20Inhalte%20des%20Formulars%20bei%20der%20Methode%20GET%20an%20den%20Server%20übertragen?.md)
+- [Z1.3 Was sind die Do's und Dont's bei HTML?](Z1.3%20Was%20sind%20die%20Do's%20und%20Dont's%20bei%20HTML?.md)
